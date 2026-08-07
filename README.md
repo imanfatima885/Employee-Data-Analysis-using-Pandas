@@ -1,12 +1,12 @@
 # Employee Data Analysis using Pandas
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs basic employee data analysis using **Python and Pandas**. It works with an employee dataset containing information such as employee names, departments, designations, salaries, experience, ages, and joining dates.
 
 The project demonstrates fundamental **data analysis and manipulation techniques** using Pandas.
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains 25 employee records with the following columns:
 
@@ -19,7 +19,7 @@ The dataset contains 25 employee records with the following columns:
 * Age
 * Joining Date
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 The program performs the following operations:
 
@@ -37,13 +37,13 @@ The program performs the following operations:
 * Sorts employees by salary in descending order
 * Saves the analyzed dataset as a new CSV file
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
 * CSV
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Employee-Data-Analysis/
@@ -54,7 +54,7 @@ Employee-Data-Analysis/
 └── README.md
 ```
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Install Pandas
 
@@ -74,7 +74,7 @@ After execution, the analyzed dataset will be saved as:
 employee_analysis.csv
 ```
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 This project helps practice:
 
@@ -87,10 +87,10 @@ This project helps practice:
 * Finding maximum and average values
 * Exporting analyzed data to CSV
 
-## 📄 Output
+##  Output
 
 The program displays the requested analysis in the terminal and generates a new file named `employee_analysis.csv` containing the employees sorted by salary in descending order.
 
-## 👩‍💻 Author
+##  Author
 
 Iman Fatima
